@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildWireCodingChallengeConsoleApp", "BuildWireCodingChallengeConsoleApp\BuildWireCodingChallengeConsoleApp.csproj", "{A5200BCF-3972-4218-8FAF-04DA7FC6EE90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamLibrary", "Library\ExamLibrary\ExamLibrary.csproj", "{69A8B7B4-E8B6-49BC-9637-1EB553BB44C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5200BCF-3972-4218-8FAF-04DA7FC6EE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5200BCF-3972-4218-8FAF-04DA7FC6EE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5200BCF-3972-4218-8FAF-04DA7FC6EE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5200BCF-3972-4218-8FAF-04DA7FC6EE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A8B7B4-E8B6-49BC-9637-1EB553BB44C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A8B7B4-E8B6-49BC-9637-1EB553BB44C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A8B7B4-E8B6-49BC-9637-1EB553BB44C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A8B7B4-E8B6-49BC-9637-1EB553BB44C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E65F0927-8C50-4D8A-9814-154738887E4E}
+	EndGlobalSection
+EndGlobal
